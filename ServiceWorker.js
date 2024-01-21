@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Boids-0.1.0";
 const contentToCache = [
-    "Build/WebGLBuild_02.loader.js",
-    "Build/WebGLBuild_02.framework.js",
-    "Build/WebGLBuild_02.data",
-    "Build/WebGLBuild_02.wasm",
+    "Build/WebGLBuild_03.loader.js",
+    "Build/WebGLBuild_03.framework.js",
+    "Build/WebGLBuild_03.data",
+    "Build/WebGLBuild_03.wasm",
     "TemplateData/style.css"
 
 ];
